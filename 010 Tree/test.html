@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<script type="text/javascript">
+		var postOrder = function(node) {
+			if(!node) return;
+			let q = [];
+			q.push(node);
+			while(q.length>0) {
+				node = q.shift();
+				console.log(node.val);
+				if(node.left) {
+					q.push(node.left);
+				}
+				if(node.right) {
+					q.push(node.right);
+				}
+			}
+		}
+		var root = {val:1};
+		var node2 = {val:2};
+		root.left = node2;
+		root.right = {val:3};
+		node2.left= {val:4};
+		node2.right={val:5};
+		postOrder(root);
+	</script>
+</body>
+</html>
