@@ -72,7 +72,7 @@ Graph:
 
 
 Title | Solution |  Data Structure | Algo | Category
----- | ---- | --- | --- 
+---- | ---- | --- | --- | ---
 [Search in Rotated Sorted Array - Medium](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [javascript](./001Array/numFriendRequests-opt1-mxx.js)| Array 
 [Friends Of Appropriate Ages - Medium](https://leetcode.com/problems/friends-of-appropriate-ages/)| [javascript](./001Array/searchInRoatedArr-mxx-opt1.js) | Array
 实现单链表，支持增删操作 | [javascript](./002LinkedList/simpleLinkedList-mxx) | LinkedList
