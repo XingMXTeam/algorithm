@@ -25,7 +25,7 @@ Title | Solution |  Data Structure | Algo | Category
 [Same Tree - Easy](https://leetcode.com/problems/same-tree/) | [javascript](./010Tree/sameTree-mxx.js)  | Tree | |
 [Binary Tree Level Order Traversal - Medium](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [javascript](./010Tree/levelOrder-opt1-mxx.js)  | Tree | |
 [Maximum Width of Binary Tree - Medium](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [javascript](./010Tree/widthOfBinaryTree-opt1-mxx.js)  | Tree | |
-[Lowest Common Ancestor of a Binary Tree - Medium]Z(https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [javascript](./010Tree/lowestCommonAncestor-opt1-mxx.js)  | Tree | |
+[Lowest Common Ancestor of a Binary Tree - Medium](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [javascript](./010Tree/lowestCommonAncestor-opt1-mxx.js)  | Tree | |
 [Binary Tree Zigzag Level Order Traversal - Medium](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [javascript](./010Tree/zigzagLevelOrder-mxx.js.js)  | Tree | |
 实现一个二叉查找树，并且支持插入、删除、查找操作 | [javascript](./010Tree/binarySearchTree-mxx.js) |Tree||
 实现查找二叉查找树中某个节点的后继、前驱节点 | [javascript](./010Tree/findPreAndNextNodeInBST-mxx.js) |Tree||
