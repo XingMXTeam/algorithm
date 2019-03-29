@@ -29,3 +29,5 @@ Title | Solution |  Data Structure | Algo | Category
 实现一个二叉查找树，并且支持插入、删除、查找操作 | [javascript](./010Tree/binarySearchTree-mxx.js) |Tree| 指针操作 | 删除元素怎么删
 实现查找二叉查找树中某个节点的后继、前驱节点 | [javascript](./010Tree/findPreAndNextNodeInBST-mxx.js) |Tree, Stack|| 中序遍历
 实现二叉树(深度优先)前、中、后序以及(宽度)按层遍历 | [javascript](./010Tree/binarySearchTree-mxx.js) |Tree，Stack|递归|
+判断一个字符串（单链表存储）是回文|LinkedList|快慢指针||
+lru|数组|||
