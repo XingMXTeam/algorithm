@@ -1,4 +1,4 @@
-# KeyPoints of Doing leetcode's Problems
+# Key Points
 
 1 Think 20 minutes before start
 
