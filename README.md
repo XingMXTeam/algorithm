@@ -1,4 +1,8 @@
-# KeyPoints of Doing leetcode's Problems
+# leetcode
+
+leetcode's javascript solutions, data structures and algorithm's summary.
+
+## KeyPoints of Doing leetcode's Problems
 
 1 Think 20 minutes before start
 
@@ -7,9 +11,9 @@
 3 Summary Often: Learn skills, No memory
 
 
-# Summary
+## Summary
 
-## Data Structure
+### Data Structure
 
 One to One(linear)
 
@@ -39,7 +43,7 @@ Data Structure | Features |  Mark
 Graph | |
 
 
-## Algorithm
+### Algorithm
 
 + Recursive: problems can be solved by sub problems, can write clean code.
 
@@ -51,11 +55,11 @@ Graph | |
 
 + Backtracking
 
-## Time Complex and Space Complex
+### Time Complex and Space Complex
 
 Space Complex means extra memory space used.
 
-## Problem Category
+### Problem Category
 
 + String Problem
 
@@ -69,6 +73,6 @@ Space Complex means extra memory space used.
 
 + Knapsack Problem
 
-## Table Of All Problems 
+### Table Of All Problems 
 
 [links](./allQuestions.md)
