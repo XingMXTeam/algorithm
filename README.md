@@ -1,19 +1,12 @@
-<<<<<<< HEAD
 # leetcode
 
 leetcode's javascript solutions, data structures and algorithm's summary.
 
-## KeyPoints of Doing leetcode's Problems
-=======
-# Key Points
->>>>>>> fe668a712d919ebd4c2f41aa0d69271d8de51262
+## Key Points
 
 1 Think 20 minutes before start
-
 2 Aimed to BugFree: No debug, In limit time and submit counts
-
 3 Summary Often: Learn skills, No memory
-
 
 ## Summary
 
